@@ -1,7 +1,7 @@
 # :IU
 ## _Automatización para las plataformas de la UDNC_
 
-[![N|Gians96](https://lh3.google.com/u/0/d/1d4XyNvt2t1MlS1frIKcYHNKVziA6fvKZ=w1364-h665-iv1)](https://github.com/gians9)
+[![N|Gians96](https://firebasestorage.googleapis.com/v0/b/nube-tecnologica.appspot.com/o/Mesa%20de%20trabajo%201.png?alt=media&token=b272d29c-a2fc-4a7c-8653-7ad8488d1306)](https://github.com/gians96)
 
 Son un conjunto de herramientas hecho en python para automatizar tareas repetitivas que vienen realizando en la organización de la UNDC.
 
