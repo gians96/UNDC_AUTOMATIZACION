@@ -11,8 +11,10 @@ Son un conjunto de herramientas hecho en python para automatizar tareas repetiti
 - Eliminación de usuarios que conforman el grupo de WhatsApp.
 - Envío de comunicado masivo a grupos de WhatsApp.
 - Llenado de Carga Lectiva, Carga no lectiva y Carga detalle lectiva masivamente.
-- Extrae en listado en formato xls, de la carga lectiva, no lectiva y carga detalle lectiva
+- Extrae en listado en formato xls, de la carga lectiva, no lectiva, carga detalle lectiva y Link de Aula Virtual
 - Crear Tag's en el Aula Virtual para unirse a los grupos de WhatsApp.
+- Crea los links de descarga para los backup's de los cursos en el Aula Virtual
+
 
 ## Tecnologías
 
