@@ -34,7 +34,8 @@ Requiere [Anaconda](https://www.anaconda.com/products/distribution)
 Necesitamos dos paquetes para poder correr el script, abrimos el terminal y ejecutamos los siguientes comandos:
 ```sh
 conda install -c conda-forge webdriver-manager
-conda install -c conda-forge selenium
+pip uninstall selenium
+pip install selenium
 ```
 ## Para entrar al SIVIRENO
 Tienes que modificar el archivos .env.example a .env  y poner tus credenciales en los parametros que se necesite.
