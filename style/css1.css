@@ -1,0 +1,49 @@
+body{
+    margin-left: 20px;
+    margin-right: 20px;
+  
+  }
+  body,th,td,p {
+    background-color: #FFFFFF; font-size : 10px; font-family: Arial, Verdana, Helvetica, sans-serif;}
+    .nombretitulo {
+      font-size: 18px;
+      font-weight: bold;
+    }
+    .nombresede {
+      font-size: 10px;
+      font-weight: bold;
+    }
+    .obs {
+      font-size: 10px;
+    }
+    .nota {
+      font-size: 10px;
+      font-weight: bold;
+    }
+      table {
+    border-collapse: collapse;
+  }
+  td.arriba {
+          border-top-width: thin;
+          border-top-style: solid;
+          border-top-color: #000000;
+      }
+      td.arriba2 {	
+          border-top-width: thin;
+          border-top-style: solid;
+          border-top-color: #000000;
+      }
+      td.borde {	
+          border-top-width: thin;
+          border-top-style: solid;
+          border-top-color: #000000;
+      }
+      td.arribaabajo {
+          border-top-width: thin;
+          border-top-style: solid;
+          border-bottom-style: solid;	
+          border-top-color: #000000;
+      }
+      
+      
+   
