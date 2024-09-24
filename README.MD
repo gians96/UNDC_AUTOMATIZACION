@@ -30,12 +30,13 @@ Se utiliza una serie de proyectos de código abierto para funcionar correctament
 
 Requiere [Python](https://www.python.org/downloads/) v3+.
 Requiere [Anaconda](https://www.anaconda.com/products/distribution) 
+Requiere [wkhtmltopdf](https://wkhtmltopdf.org/downloads.html)
 ## Paquetes Anaconda
 Necesitamos dos paquetes para poder correr el script, abrimos el terminal y ejecutamos los siguientes comandos:
 ```sh
 conda install -c conda-forge webdriver-manager
 pip uninstall selenium
-pip install selenium
+pip install selenium pandas pdfkit
 ```
 ## Para entrar al SIVIRENO
 Tienes que modificar el archivos .env.example a .env  y poner tus credenciales en los parametros que se necesite.
